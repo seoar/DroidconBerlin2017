@@ -1,4 +1,4 @@
-package de.droidcon.berlin2018
+.package de.droidcon.berlin2018
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
